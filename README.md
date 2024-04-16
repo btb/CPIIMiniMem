@@ -1,4 +1,23 @@
 # PortableIIMemBoard
+
+## TODO (Single bank SIMM version)
+
+SIMM socket just a smidge too close to the ICs. They'll hit if the ICs use sockets.
+
+Placement of Bank3-4 expanson connector probably renders the nearby mounting hole useless.
+
+Overlap of Bank3-4 expansion connector with SIMM socket not ideal.
+
+SIMM could be turned around and hang over battery.
+
+Can probably make a few mm bigger.
+
+Would be nice if main connector was easier to align.
+
+Find correct size standoffs.
+
+## About
+
 Reverse engineering of the System Memory Board for the Compaq Portable II
 
 I discovered the existence of this board from reading the 
