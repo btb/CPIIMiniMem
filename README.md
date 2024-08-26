@@ -2,6 +2,8 @@
 
 ## TODO
 
+More investigation of the possibility of using higher-density SIMMs.
+
 SIMM socket just a smidge too close to the ICs. They'll hit if the ICs use sockets.
 
 Placement of Bank3-4 expanson connector probably renders the nearby mounting hole useless.
@@ -18,6 +20,8 @@ Find correct size standoffs.
 
 ## About
 
-Based on the reverse-engineered [System Memory Board](https://github.com/btb/PortableIIMemBoard) for the Compaq Portable II.
+This is a 512K expansion board which connects directly to the motherboard of the Compaq Portable II.
+
+Based on the reverse-engineered [System Memory Board](https://github.com/btb/PortableIIMemBoard).
 
 ![render](CP2SIMMBoard1Bank.png)
